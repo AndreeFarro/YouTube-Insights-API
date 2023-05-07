@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.mvc.validators",
+      "type": "java.lang.String",
+      "description": "Description for spring.mvc.validators."
+  }
+] }
